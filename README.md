@@ -1,4 +1,4 @@
-# tugas_besar_deep_learning
+# Tugas Besar Deep Learning
 
 # Nama : Muhammad Faishal Azhar Suherman
 # NIM : 23524047
